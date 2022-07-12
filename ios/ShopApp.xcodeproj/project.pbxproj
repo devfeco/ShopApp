@@ -119,7 +119,7 @@
 				13B07FAE1A68108700A75B9A /* ShopApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* ShopAppTests */,
-				83CBBA001A601CBA00E9B192 /* Products */,
+				83CBBA001A601CBA00E9B192 /* Home */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
 			);
@@ -128,13 +128,13 @@
 			tabWidth = 2;
 			usesTabs = 0;
 		};
-		83CBBA001A601CBA00E9B192 /* Products */ = {
+		83CBBA001A601CBA00E9B192 /* Home */ = {
 			isa = PBXGroup;
 			children = (
 				13B07F961A680F5B00A75B9A /* ShopApp.app */,
 				00E356EE1AD99517003FC87E /* ShopAppTests.xctest */,
 			);
-			name = Products;
+			name = Home;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -220,7 +220,7 @@
 				Base,
 			);
 			mainGroup = 83CBB9F61A601CBA00E9B192;
-			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
+			productRefGroup = 83CBBA001A601CBA00E9B192 /* Home */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
